@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Vyom Gupta | Economics and Digital Business student with an entrepreneurial mindset." />
+  <title>Vyom Gupta | Portfolio</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="#home" class="brand">VG<span>.</span></a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="#about">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#education">Education</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero section reveal" id="home">
+      <div class="hero-copy">
+        <span class="eyebrow">Economics · Digital Business · Entrepreneurship</span>
+        <h1>Vyom Gupta<span>.</span></h1>
+        <h2>Curious about business. Driven by ideas.</h2>
+        <p>
+          An economics and digital-business student with an entrepreneurial mindset,
+          interested in understanding businesses, identifying opportunities, and
+          turning ideas into practical strategies.
+        </p>
+
+        <div class="hero-actions">
+          <a href="#projects" class="button button-primary">View Work</a>
+          <a href="#contact" class="button button-secondary">Get in Touch</a>
+        </div>
+
+        <div class="hero-meta">
+          <div>
+            <strong>2+</strong>
+            <span>Years of business exposure</span>
+          </div>
+          <div>
+            <strong>5+</strong>
+            <span>Campus & project roles</span>
+          </div>
+          <div>
+            <strong>1.5L+</strong>
+            <span>Instagram reach achieved</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-visual">
+        <div class="glass-card profile-card">
+          <div class="badge">Business + Strategy</div>
+          <div class="profile-ring">
+            <div class="initials">VG</div>
+          </div>
+          <ul>
+            <li>Marketing Strategy</li>
+            <li>Business Operations</li>
+            <li>Market Research</li>
+          </ul>
+        </div>
+
+        <div class="floating-panel panel-1">
+          <span>Growth mindset</span>
+          <strong>Learning by doing</strong>
+        </div>
+
+        <div class="floating-panel panel-2">
+          <span>Current focus</span>
+          <strong>Digital business</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="section about-section reveal" id="about">
+      <div class="section-heading">
+        <span class="eyebrow">01 / About</span>
+        <h2>A little about me</h2>
+      </div>
+
+      <div class="about-grid">
+        <div class="content-card">
+          <h3>My approach</h3>
+          <p>
+            I enjoy exploring how businesses operate, how ideas become opportunities,
+            and how thoughtful strategy can create value. My academic interests combine
+            economics, mathematics, digital business, and entrepreneurship.
+          </p>
+        </div>
+
+        <div class="content-card highlight">
+          <span class="mini-label">Current direction</span>
+          <h3>Building a practical foundation in business.</h3>
+          <p>
+            I’m focused on developing analytical thinking, communication, and problem-solving
+            through hands-on projects, business exposure, and strategic learning.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal" id="experience">
+      <div class="section-heading">
+        <span class="eyebrow">02 / Experience</span>
+        <h2>Practical exposure</h2>
+      </div>
+
+      <div class="timeline">
+        <article class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <div class="tag-row">
+              <span>Business & Operations</span>
+              <span>Ongoing</span>
+            </div>
+            <h3>OMG! Supermarket</h3>
+            <p>
+              Involved in the family-run supermarket brand with exposure to day-to-day
+              business operations, supplier coordination, customer communication, and
+              digital brand management.
+            </p>
+            <ul>
+              <li>Manage Instagram presence and customer WhatsApp group</li>
+              <li>Coordinate with suppliers and reps from established companies</li>
+              <li>Contribute to a delivery app and stock-management project</li>
+              <li>Instagram reach crossed approximately 1.5 lakh in one week</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <div class="tag-row">
+              <span>Business Exposure</span>
+            </div>
+            <h3>Family Wholesale Chemist Business</h3>
+            <p>
+              Gained ground-level understanding of wholesale operations and practical
+              business functioning in a family-led enterprise.
+            </p>
+          </div>
+        </article>
+
+        <article class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-content">
+            <div class="tag-row">
+              <span>Marketing Strategy</span>
+              <span>Project</span>
+            </div>
+            <h3>Solar Brand — Chillchai Creations</h3>
+            <p>
+              Developed a proposed marketing strategy for a solar experience centre
+              in Gorakhpur, covering customer segmentation, digital campaigns, and
+              launch planning.
+            </p>
+            <ul>
+              <li>Defined segmentation and marketing objectives</li>
+              <li>Planned Instagram, Facebook, Google, and WhatsApp campaigns</li>
+              <li>Proposed local partnerships and influencer outreach</li>
+              <li>Concept: “Batti Gul, Meter Chalu”</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section reveal" id="projects">
+      <div class="section-heading">
+        <span class="eyebrow">03 / Projects</span>
+        <h2>Selected work & ideas</h2>
+      </div>
+
+      <div class="project-grid">
+        <article class="project-card">
+          <div class="card-top">
+            <span class="chip">Brand Growth</span>
+            <span class="chip dark">Instagram</span>
+          </div>
+          <h3>OMG! Supermarket Growth Initiative</h3>
+          <p>
+            Built and managed a digital identity for a supermarket, driving customer
+            engagement and awareness through social media and direct communication.
+          </p>
+        </article>
+
+        <article class="project-card">
+          <div class="card-top">
+            <span class="chip">Market Research</span>
+            <span class="chip dark">Strategy</span>
+          </div>
+          <h3>Solar Experience Centre Proposal</h3>
+          <p>
+            Conceptualized a campaign and strategy framework for a solar brand,
+            including messaging, digital touchpoints, and partnership opportunities.
+          </p>
+        </article>
+
+        <article class="project-card">
+          <div class="card-top">
+            <span class="chip">Operations</span>
+            <span class="chip dark">Business</span>
+          </div>
+          <h3>Wholesale Business Exposure</h3>
+          <p>
+            Learned how a family-run trading business functions at the ground level,
+            from supplier interaction to day-to-day operational decisions.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section reveal" id="education">
+      <div class="section-heading">
+        <span class="eyebrow">04 / Education</span>
+        <h2>Academic journey</h2>
+      </div>
+
+      <div class="edu-stack">
+        <div class="edu-item">
+          <span class="year">2026 — 2029</span>
+          <div>
+            <h3>University of Delhi · Aryabhatta College</h3>
+            <p>BA Economics Major with Mathematics</p>
+          </div>
+        </div>
+
+        <div class="edu-item">
+          <span class="year">2026 — 2029</span>
+          <div>
+            <h3>IIM Bangalore</h3>
+            <p>BBA in Digital Business & Entrepreneurship</p>
+          </div>
+        </div>
+
+        <div class="edu-item">
+          <span class="year">2026</span>
+          <div>
+            <h3>CBSE Class XII</h3>
+            <p>79% · Bishop Conrad Senior Secondary School, Bareilly</p>
+          </div>
+        </div>
+
+        <div class="edu-item">
+          <span class="year">2024</span>
+          <div>
+            <h3>CBSE Class X</h3>
+            <p>76% · Bishop Conrad Senior Secondary School, Bareilly</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="achievement-pill">
+        <span>Entrance Exam</span>
+        <strong>CUET GAT</strong>
+        <em>93.5 percentile</em>
+      </div>
+    </section>
+
+    <section class="section reveal" id="contact">
+      <div class="cta-box">
+        <div>
+          <span class="eyebrow">05 / Contact</span>
+          <h2>Let’s connect.</h2>
+          <p>
+            Open to meaningful conversations, learning opportunities, and professional
+            connections.
+          </p>
+        </div>
+
+        <div class="contact-links">
+          <a href="mailto:gvyomzii02@gmail.com?subject=Professional%20Connection&body=Hello%20Vyom%2C%0A%0AI%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect.">
+            gvyomzii02@gmail.com
+          </a>
+          <a href="https://www.linkedin.com/in/vyom-gupta-8268913b0/" target="_blank" rel="noopener noreferrer">
+            LinkedIn Profile ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="resume-section reveal" id="resume">
+      <div class="resume-inner">
+        <div class="resume-header">
+          <div>
+            <span class="eyebrow">Print-ready document</span>
+            <h2>My Resume</h2>
+          </div>
+          <a href="resume.pdf" class="button button-primary" download>Download PDF ↓</a>
+        </div>
+
+        <div class="resume-paper">
+          <div class="resume-top">
+            <h1>Vyom Gupta</h1>
+            <p>Economics · Mathematics · Digital Business · Entrepreneurship</p>
+            <div class="resume-contact">
+              <a href="mailto:gvyomzii02@gmail.com">gvyomzii02@gmail.com</a>
+              <span>New Delhi, India</span>
+              <a href="https://www.linkedin.com/in/vyom-gupta-8268913b0/">LinkedIn</a>
+            </div>
+          </div>
+
+          <div class="resume-block">
+            <h2>Profile</h2>
+            <p>
+              An economics and digital-business student with an entrepreneurial mindset,
+              interested in understanding businesses, identifying opportunities and turning
+              ideas into practical strategies.
+            </p>
+          </div>
+
+          <div class="resume-block">
+            <h2>Experience & Projects</h2>
+            <h3>OMG! Supermarket</h3>
+            <p>
+              Involved in a family-run supermarket brand. Manage Instagram presence and a
+              customer WhatsApp group; gain exposure to supplier interactions and business operations.
+            </p>
+            <h3>Family Wholesale Chemist Business</h3>
+            <p>Ground-level exposure to wholesale business operations.</p>
+            <h3>Solar Brand Marketing Strategy — Chillchai Creations</h3>
+            <p>
+              Proposed strategy for a solar centre in Gorakhpur with customer segmentation,
+              digital campaigns, partnerships, and launch roadmap.
+            </p>
+          </div>
+
+          <div class="resume-block">
+            <h2>Education</h2>
+            <h3>University of Delhi, Aryabhatta College | 2026–2029</h3>
+            <p>BA Economics Major with Mathematics</p>
+            <h3>IIM Bangalore | 2026–2029</h3>
+            <p>BBA in Digital Business & Entrepreneurship</p>
+            <h3>CBSE Class XII | 2026</h3>
+            <p>79% · Bishop Conrad Senior Secondary School, Bareilly</p>
+            <p><strong>CUET GAT:</strong> 93.5 percentile</p>
+          </div>
+
+          <div class="resume-block">
+            <h2>Skills & Certification</h2>
+            <p>
+              Communication · Research & Development · Canva · Creative Thinking ·
+              Social Media Management · Supplier Coordination · Market Research ·
+              Marketing Strategy Development
+            </p>
+            <p><strong>Certification:</strong> Diploma in Digital Marketing</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <a href="#home" class="brand">VG<span>.</span></a>
+    <p>© 2026 Vyom Gupta. All rights reserved.</p>
+    <a href="#home">Back to top ↑</a>
+  </footer>
+
+  <script>
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+        }
+      });
+    }, { threshold: 0.12 });
+
+    document.querySelectorAll(".reveal").forEach((el) => {
+      observer.observe(el);
+    });
+  </script>
+</body>
+</html>
